@@ -1,0 +1,57 @@
+# Jees poks
+
+#screen_width = 1024
+#screen_height = 768
+screen_width = 1280
+screen_height = 960
+fullscreen = 0
+split_n = 4
+split_m = 4
+timer_individuals = 0
+record_video = 0
+downsample_frames = 1
+camera_path=2
+camera_path_scale=5
+light_time_offset=0.0
+
+obj_file = sibenik_pelz.obj
+obj_scale = 1.0
+obj_trans_x = 0.0
+obj_trans_y = 0.0
+obj_trans_z = 0.0
+obj_swap_yz = 1
+culling = 1
+flat_normals = 1
+
+light_x = -4
+light_y = 6.2
+light_z = 0
+light_x_scale = 9.0
+light_y_scale = 1.0
+light_z_scale = 2.5
+light_speed_xz = 0.6
+light_speed_y = 0.5
+light_intensity = 70.0
+light_size = 0.5
+light_rotation_speed = 2.0
+
+normal_threshold = 0.8
+position_threshold = 0.5
+
+secondary_lights = 256
+primary_shadowmap_size = 1024
+secondary_shadowmap_size = 256
+indirect_boost = 1.0
+
+recalc_lights_min = 4
+recalc_lights_max = 8
+subdivide_edge = 3.0
+spot = 1
+reuse_secondary_lights = 1
+
+cupid = 0
+cupid_x = 4.0
+cupid_y = 0.8
+cupid_z = -2.5
+cupid_scale = 0.75
+

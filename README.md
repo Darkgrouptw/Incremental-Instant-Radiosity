@@ -12,3 +12,4 @@ It's important to justistify the existence of each VPLs because the generation r
 
 
 ## Video Link
+* [Link](https://youtu.be/rOn0F2wk4mo)
